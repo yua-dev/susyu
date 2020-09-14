@@ -338,7 +338,7 @@ button:focus {
 .header-desc {
     max-width: 500px;
     line-height: 1.8;
-    color: rgba(255, 255, 255, 0.75) !important;
+    color:#fff;
     letter-spacing: 2px;
 }
 
@@ -686,7 +686,13 @@ button:focus {
         line-height: 15px;
     }
     .header-name {
-        font-size: 22px;
+        font-size: 20px;
+    }
+    .header-desc {
+        font-size: 14px;
+    }
+    .title-weight{
+        font-size: 16px;
     }
     .clip-home{
         clip-path: none;
@@ -704,6 +710,10 @@ button:focus {
     font-size: 50px;
 }
 
+.fa-bars{
+    font-size: 20px;
+}
+
 .title-weight{
     font-size: 20px;
 }
@@ -717,3 +727,4 @@ button:focus {
 .-error{
     color: #f00;
 }
+
