@@ -642,6 +642,29 @@ button:focus {
     color: #fff;
 }
 
+/* add */
+.strength-icon{
+    font-size: 50px;
+}
+
+.fa-bars{
+    font-size: 20px;
+}
+
+.title-weight{
+    font-size: 20px;
+}
+
+.contact-message{
+    text-align: center;
+    margin-top:60px;
+    display:none;
+}
+
+.-error{
+    color: #f00;
+}
+
 
 /*===========================
         11.RESPONSIVE
@@ -686,13 +709,13 @@ button:focus {
         line-height: 15px;
     }
     .header-name {
-        font-size: 20px;
+        font-size: 19px;
     }
     .header-desc {
-        font-size: 14px;
+        font-size: 12px;
     }
     .title-weight{
-        font-size: 16px;
+        font-size: 15px;
     }
     .clip-home{
         clip-path: none;
@@ -705,26 +728,5 @@ button:focus {
     }
 }
 
-/* add */
-.strength-icon{
-    font-size: 50px;
-}
 
-.fa-bars{
-    font-size: 20px;
-}
-
-.title-weight{
-    font-size: 20px;
-}
-
-.contact-message{
-    text-align: center;
-    margin-top:60px;
-    display:none;
-}
-
-.-error{
-    color: #f00;
-}
 
